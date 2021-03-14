@@ -1,11 +1,7 @@
-
-
 <h1 align="center">Hi 👋, I'm Sharmila Samantaray</h1>
 <h3 align="center">A CSE Sophomore who loves exploring new field</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmila4250&label=Profile%20views&color=0e75b6&style=flat" alt="sharmila4250" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharmila4250" alt="sharmila4250" /></a> </p>
 
 - 📫 How to reach me **leema.sharmila@gmail.com**
 
@@ -23,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmila4250&show_icons=true&locale=en" alt="sharmila4250" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmila4250&" alt="sharmila4250" /></p>
-
