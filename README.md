@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Sharmila Samantaray</h1>
 <h3 align="center">A CSE Sophomore who loves exploring new field</h3>
